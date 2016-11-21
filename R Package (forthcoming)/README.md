@@ -12,4 +12,4 @@ iii) small.perturbation - a small positive number to remove ties (typicall set t
 
 The output will be a p vector of scores. 
 
-2. cosci_is_select:
+### 2. cosci_is_select
