@@ -98,7 +98,7 @@ generate.data<- function(n,datalocation){
 COSCI_p100<- function(n,datalocation,kmhc){
   
   library(snowfall)  
-  sfInit(parallel = TRUE,cpu = 4)
+  sfInit(parallel = TRUE,cpu = ncpu)
   #sfSource('coscilibrary.R')
   
   p<- 100
