@@ -12,4 +12,4 @@ COSCI produces a score for each feature, which reflects its relative importance 
 
 ## How to use this repository?
 
-This reporsitory has two main folders: (1) R Package - this is forthcoming but you can still use the COSCI functions placed inside this folder for your analysis. (2) Tables and Figures in the paper - this folder holds the scripts that reproduce the analysis in the paper [1].
+This repository has two main folders: (1) R Package - this is forthcoming but you can still use the COSCI functions placed inside this folder for your analysis. (2) Tables and Figures in the paper - this folder holds the scripts that reproduce the analysis in the paper [1].
