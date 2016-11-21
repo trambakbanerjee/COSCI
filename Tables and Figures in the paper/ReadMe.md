@@ -1,6 +1,6 @@
 The files in this folder are named accroding to the table numbers in the paper.
 
-### 1. Table i, i = 1:5
+### 1. Table i, i = {1:5} U {7}
 
 These folders hold the R and MATLAB files (for IF-PCA only) that should reproduce the results for table i in the paper.
 
