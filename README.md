@@ -5,10 +5,10 @@ scalable, and can successfully handle datasets with more than one million observ
 
 ### Perfect Screening Property
 
-COSCI produces a score, Sj for each feature, which reflects its relative importance for clustering, and then screens out the features with lower scores. It enjoys a perfect screening property in the sense that under mild regularity conditions on the densities of the features, COSCI screens out all the noise features with high probability.
+COSCI produces a score for each feature, which reflects its relative importance for clustering, and then screens out the features with lower scores. It enjoys a perfect screening property in the sense that under mild regularity conditions on the densities of the features, COSCI screens out all the non-informative features with high probability.
 
 ### Reference
-Banerjee, T., Mukherjee, G. and Radchenko, P. “Feature Screening in Large Scale Cluster Analysis.” 
+[1.] Banerjee, T., Mukherjee, G. and Radchenko, P. “Feature Screening in Large Scale Cluster Analysis.” 
 
 ## How to use this repository?
 
