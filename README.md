@@ -1,2 +1,3 @@
-# COSCI
-This repository holds the source codes for COSCI
+# What is COSCI?
+
+# How to use this repository?
