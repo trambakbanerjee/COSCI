@@ -4,7 +4,7 @@ require(optimbase)
 require(bbmle)
 require(sparcl)
 require(gmodels)
-library(gridExtra)
+require(gridExtra)
 
 wd<- 'Enter your working directory here'
 #----------------------------------------------------------------
