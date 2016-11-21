@@ -71,7 +71,7 @@ cosci<-function(dat,min.alpha,small.perturbation){
 }
 
 setwd(wd)
-load("RNASeq.RData")
+load(paste(wd,"/RNASeq.RData",sep=""))
 genes<-colnames(d)
 genes<-as.data.frame(genes[-c(1,2)])
 true.class<- c(as.numeric(d[,2]))
@@ -313,7 +313,7 @@ abline(v=classticks[,1],col='black',lwd=2)
 
 
 #------------------------- Full SpKM and KM --------------------------
-# This is time intensive process -------------------------------------
+# This is a time intensive process -------------------------------------
 
 D<- scale(tdata,TRUE,TRUE)
 
