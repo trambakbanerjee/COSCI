@@ -153,6 +153,7 @@ kd<-  max(which((cumsum(Ti)/(1:r.s))<=cutoff.2))
 idx.2<- (fdr.1<=Ti[kd])
 alpha.2<- alpha.1[idx.2]
 select.d2<- select.d1[,idx.2]
+write.csv(select.d2,paste(wd,"/selected.csv",sep=""))
 
 #------------------------- COSCI+SpKM and COSCI+KM --------------------------
 D<- scale(select.d2,TRUE,TRUE)
