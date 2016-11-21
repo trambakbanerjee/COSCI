@@ -1,3 +1,3 @@
 ## What is COSCI?
 
-# How to use this repository?
+## How to use this repository?
