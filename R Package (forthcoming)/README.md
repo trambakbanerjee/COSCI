@@ -8,7 +8,7 @@ i)   dat - n by p data matrix
 
 ii)  min.alpha - the smallest threshold (typically set to 0)
 
-iii) small.perturbation - a small positive number to remove ties (typicall set to 10^(-6))
+iii) small.perturbation - a small positive number to remove ties (typically set to 10^(-6))
 
 The output will be a p vector of scores. 
 
