@@ -6,4 +6,6 @@ These folders hold the R and MATLAB files (for IF-PCA only) that should reproduc
 
 ### 2. Table 6
 
-To replicate Table 6 in the paper, use the files in the folders 'RNA Seq Data', 'Cardio Data' and 'Multitissue Data'. Note that you will have to convert the csv file 'selected.csv' to a .mat file yourself. Some of these folders do not contain the actual data files due to size limitations. Please send me an email if you would like to have them.
+To replicate Table 6 in the paper, use the files in the folders 'RNA Seq Data', 'Cardio Data' and 'Multitissue Data'. Note that you will have to convert the csv file 'selected.csv' to a .mat file yourself. 
+
+Some of these folders, especially those of Tables 8 and 6, do not contain the actual data files due to size limitations. Please send me an email if you would like to have them.
