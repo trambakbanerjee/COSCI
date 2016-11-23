@@ -13,3 +13,14 @@ iii) small.perturbation - a small positive number to remove ties (typicall set t
 The output will be a p vector of scores. 
 
 ### 2. cosci_is_select
+
+Once you have the feature scores from (1), you can
+
+(i.) select the features based on a pre-defined threshold, 
+
+(ii.) use table 1 in our paper to determine an appropriate threshold or 
+
+(iii.) use the data driven approach described in our paper to select the features and obtain an implicit threshold value. 
+
+The function 'cosci_is_select' implements option (iii.). This function takes two inputs (a) the p vector of scores and (b) gamma.
+Please refer to our paper for what gamma stands for in this context. If your sample size n is smaller than 100, setting gamma = 0.85 is recommended. 
