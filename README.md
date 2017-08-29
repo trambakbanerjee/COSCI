@@ -19,6 +19,6 @@ References
 [1.] [Feature Screening in Large Scale Cluster Analysis](http://www.sciencedirect.com/science/article/pii/S0047259X17300271)    
 Banerjee, T., Mukherjee, G. and Radchenko P.  *Journal of Multivariate Analysis (2017)*
 
-[2.] [Convex clustering via ℓ1 fusion penalization](10.1111/rssb.12226)   
+[2.] [Convex clustering via ℓ1 fusion penalization](http://onlinelibrary.wiley.com/doi/10.1111/rssb.12226/abstract)   
 Radchenko P., Mukherjee G.   *J. R. Stat. Soc. Ser. B Stat. Methodol. (2017)*
 
