@@ -1,7 +1,0 @@
-# R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
-
-before_install: cd fusionclust
-before_script: cd fusionclust
-language: R
-sudo: false
-cache: packages
