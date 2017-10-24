@@ -12,7 +12,7 @@ COSCI produces a score for each feature, which reflects its relative importance 
 How to use this repository?
 ----------
 
-This repository holds the scripts that reproduce the analysis in the paper [1]. Send me an email if anything does not work as expected.
+This repository holds the scripts that reproduce the analysis in the paper [1]. Send me an email if anything does not work as expected. If you are looking for the associated R-package for COSCI, then please visit [this](https://github.com/trambakbanerjee/fusionclust#fusionclust) page.
 
 References
 =======
